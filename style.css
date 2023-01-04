@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,300;1,100;1,200&family=Plus+Jakarta+Sans:wght@500;700;800&family=Roboto:wght@100&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+nav {
+    margin: 0 10%;
+    margin-bottom: 5%;
+    margin-top: 1%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.logo {
+    font-family: plus jakarta sans;
+    font-size: 24px;
+    color: #13183f;
+}
+
+button {
+    padding: 5px 13px;
+    border-radius: 25px;
+    color: #FFFFFF;
+    font-family: plus jakarta sans;
+    font-size: .60rem;
+    border: none;
+}
+
+.btn-1 {
+    background: #13183f;
+}
+
+/* Styling the hero section */
+
+.hero {
+    display: flex;
+    
+}
+
+.img-1 {
+    height: 40%;
+    width: 40%;
+    transform: translate(280px, -200px);
+    
+}
+
+.container {
+
+}
+
+.btn-2 {
+    background: linear-gradient(#F02AA6, #FF6F48);
+}
